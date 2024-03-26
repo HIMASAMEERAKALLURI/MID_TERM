@@ -1,0 +1,19 @@
+2024-03-27 01:47:33,273 - root - INFO - Logging configured.
+2024-03-27 01:47:33,275 - root - INFO - Environment variables loaded.
+2024-03-27 01:47:33,277 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-03-27 01:47:33,278 - root - INFO - Registered command 'GreetCommand' for plugin 'greet'
+2024-03-27 01:47:33,278 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-27 01:47:33,278 - root - INFO - Hello, World!
+2024-03-27 01:47:33,279 - root - INFO - Application exit.
+2024-03-27 01:47:33,279 - root - INFO - Application shutdown.
+2024-03-27 01:53:25,136 - root - INFO - Logging configured.
+2024-03-27 01:53:25,137 - root - INFO - Environment variables loaded.
+2024-03-27 01:53:25,860 - root - INFO - Command 'calculator' from plugin 'calculator' registered.
+2024-03-27 01:53:25,860 - root - INFO - Registered command 'CalculatorCommand' for plugin 'calculator'
+2024-03-27 01:53:25,861 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-03-27 01:53:25,861 - root - INFO - Registered command 'GreetCommand' for plugin 'greet'
+2024-03-27 01:53:25,861 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-27 01:53:39,915 - root - ERROR - Error: Invalid expression format. Please enter a valid operation with operands.
+2024-03-27 01:54:50,025 - root - INFO - Calculator history saved to ./cal_csv_hist/cal_hist.csv
+2024-03-27 01:55:00,726 - root - INFO - Application exit.
+2024-03-27 01:55:00,727 - root - INFO - Application shutdown.

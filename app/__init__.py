@@ -82,6 +82,5 @@ class App:
 
 
 if __name__ == "__main__":
-    tmpdir = '/tmp/pytest-of-subbarayududevalla/pytest-0/test_app_calculator_command0'
-    app = App(base_path=str(tmpdir))
+    app = App()
     app.start()
