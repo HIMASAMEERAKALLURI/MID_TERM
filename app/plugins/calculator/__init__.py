@@ -20,7 +20,7 @@ class CalculatorCommand(Command):
     def execute(self):
         """Starts the calculator REPL, prompting for user input and performing calculations."""
         while True:
-            user_input = input("Enter operation (+, -, *, /, or exit): ").strip()
+            user_input = input("Enter operation (+, -, *, /, or exit)(e.g., 2 + 3): ").strip()
 
             if user_input == "exit":
                 self.save_history()

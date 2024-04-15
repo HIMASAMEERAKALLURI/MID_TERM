@@ -27,3 +27,44 @@
 2024-03-27 02:13:29,036 - root - INFO - Hello, World!
 2024-03-27 02:13:29,037 - root - INFO - Application exit.
 2024-03-27 02:13:29,037 - root - INFO - Application shutdown.
+2024-04-04 12:46:49,255 - root - INFO - Logging configured.
+2024-04-04 12:46:49,257 - root - INFO - Environment variables loaded.
+2024-04-04 12:46:49,258 - root - INFO - Command 'calculator' from plugin 'calculator' registered.
+2024-04-04 12:46:49,259 - root - INFO - Registered command 'CalculatorCommand' for plugin 'calculator'
+2024-04-04 12:46:49,260 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-04-04 12:46:49,260 - root - INFO - Registered command 'GreetCommand' for plugin 'greet'
+2024-04-04 12:46:49,260 - root - INFO - Application started. Type 'exit' to exit.
+2024-04-04 12:46:49,260 - root - INFO - Hello, World!
+2024-04-04 12:46:49,260 - root - INFO - Application exit.
+2024-04-04 12:46:49,260 - root - INFO - Application shutdown.
+2024-04-14 13:22:59,797 - root - INFO - Logging configured.
+2024-04-14 13:22:59,799 - root - INFO - Environment variables loaded.
+2024-04-14 13:22:59,804 - root - ERROR - Error importing plugin calculator: No module named 'pandas'
+2024-04-14 13:22:59,805 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-04-14 13:22:59,805 - root - INFO - Registered command 'GreetCommand' for plugin 'greet'
+2024-04-14 13:22:59,805 - root - INFO - Application started. Type 'exit' to exit.
+2024-04-14 13:23:25,198 - root - INFO - Application interrupted and exiting gracefully.
+2024-04-14 13:23:25,199 - root - INFO - Application shutdown.
+2024-04-14 13:24:30,278 - root - INFO - Logging configured.
+2024-04-14 13:24:30,279 - root - INFO - Environment variables loaded.
+2024-04-14 13:24:30,701 - root - INFO - Command 'calculator' from plugin 'calculator' registered.
+2024-04-14 13:24:30,701 - root - INFO - Registered command 'CalculatorCommand' for plugin 'calculator'
+2024-04-14 13:24:30,702 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-04-14 13:24:30,702 - root - INFO - Registered command 'GreetCommand' for plugin 'greet'
+2024-04-14 13:24:30,702 - root - INFO - Application started. Type 'exit' to exit.
+2024-04-14 13:34:36,374 - root - ERROR - Error: Invalid expression format. Please enter a valid operation with operands.
+2024-04-14 13:35:07,470 - root - ERROR - Error: Invalid expression format. Please enter a valid operation with operands.
+2024-04-14 13:41:16,271 - root - INFO - Calculator history saved to ./cal_csv_hist/cal_hist.csv
+2024-04-14 13:41:31,650 - root - INFO - Calculator history saved to ./cal_csv_hist/cal_hist.csv
+2024-04-14 13:41:35,885 - root - INFO - Application exit.
+2024-04-14 13:41:35,885 - root - INFO - Application shutdown.
+2024-04-14 13:41:47,081 - root - INFO - Logging configured.
+2024-04-14 13:41:47,082 - root - INFO - Environment variables loaded.
+2024-04-14 13:41:47,639 - root - INFO - Command 'calculator' from plugin 'calculator' registered.
+2024-04-14 13:41:47,639 - root - INFO - Registered command 'CalculatorCommand' for plugin 'calculator'
+2024-04-14 13:41:47,640 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-04-14 13:41:47,640 - root - INFO - Registered command 'GreetCommand' for plugin 'greet'
+2024-04-14 13:41:47,640 - root - INFO - Application started. Type 'exit' to exit.
+2024-04-14 13:42:15,032 - root - INFO - Calculator history saved to ./cal_csv_hist/cal_hist.csv
+2024-04-14 13:42:19,473 - root - INFO - Application exit.
+2024-04-14 13:42:19,473 - root - INFO - Application shutdown.
